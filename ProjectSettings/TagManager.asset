@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Text_Time
+  - Text_Laps
+  - Text_GP
+  - Text_BT
+  - Text_GW
+  - Text_GL
   layers:
   - Default
   - TransparentFX
@@ -13,10 +19,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Grabbable
+  - Hands
+  - Teleporter
+  - NoHandCollide
   - 
   - 
   - 
